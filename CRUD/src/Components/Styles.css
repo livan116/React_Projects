@@ -1,0 +1,64 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+table,th,tr{
+    border: 2px black solid;
+    border-collapse: collapse;
+    padding: 12px 30px;
+}
+
+
+td{
+    border: 2px black solid;
+    padding: 10px 20px;
+}
+
+.btns{
+   display: flex;
+   gap: 10px;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+ }
+
+input{
+    height: 40px;
+    padding: 0px 10px 0px 10px;
+    width: 300px;
+    border: none;
+    border-radius: 20px;
+}
+
+label{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+button{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(38, 24, 24);
+    color: aliceblue;
+}   

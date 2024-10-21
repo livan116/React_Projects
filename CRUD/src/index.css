@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: linear-gradient(
+    rgb(239, 146, 146),rgb(241, 163, 163),white
+  );
+  background-repeat: no-repeat;
+}
